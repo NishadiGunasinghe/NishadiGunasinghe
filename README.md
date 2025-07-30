@@ -45,10 +45,10 @@ Experienced in Test-Driven Development, microservices architecture, and Agile me
 
 Here are a few highlights from my public repositories:
 
-- 🔹 [Assignment1](https://github.com/NishadiGunasinghe/Assignment1) – Java-based academic project
-- 🔹 [HybridCompressionModel](https://github.com/NishadiGunasinghe/HybridCompressionModel) – Research in real-time data compression
-- 🔹 [JobTrackerApplication](https://github.com/NishadiGunasinghe/JobTrackerApplication) – Job tracking app with JavaScript
-- 🔹 [cinema-tickets](https://github.com/NishadiGunasinghe/cinema-tickets) – Ticket booking system
+-  [Assignment1](https://github.com/NishadiGunasinghe/Assignment1) – Java-based academic project
+-  [HybridCompressionModel](https://github.com/NishadiGunasinghe/HybridCompressionModel) – Research in real-time data compression
+-  [JobTrackerApplication](https://github.com/NishadiGunasinghe/JobTrackerApplication) – Job tracking app with JavaScript
+-  [cinema-tickets](https://github.com/NishadiGunasinghe/cinema-tickets) – Ticket booking system
 
 👉 [Explore all my repositories](https://github.com/NishadiGunasinghe?tab=repositories)
 
