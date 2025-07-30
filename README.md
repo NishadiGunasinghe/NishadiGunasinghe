@@ -1,3 +1,11 @@
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=NishadiGunasinghe&label=Total%20Views&color=6&icon=0" />
+  <img src="https://visitcount.itsvg.in/api?id=NishadiGunasinghe&label=Today%20Views&color=6&icon=0&today=true" />
+  <img src="https://visitcount.itsvg.in/api?id=NishadiGunasinghe&label=Unique%20Views&color=6&icon=0&pretty=true" />
+</p>
+
+---
+
 ### 👩‍💻 About Me
 
 I'm a results-driven and detail-oriented Full Stack Software Developer with over 3 years of experience designing, developing, and delivering high-quality, scalable web applications. 
@@ -58,11 +66,3 @@ Here are a few highlights from my public repositories:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishadi-gunasinghe/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NishadiGunasinghe)
-
----
-
-### 📈 Visitor Count
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NishadiGunasinghe&style=flat&color=blue" alt="Profile views" />
-</p>
