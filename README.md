@@ -1,11 +1,3 @@
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=NishadiGunasinghe&label=Total%20Views&color=6&icon=0" />
-  <img src="https://visitcount.itsvg.in/api?id=NishadiGunasinghe&label=Today%20Views&color=6&icon=0&today=true" />
-  <img src="https://visitcount.itsvg.in/api?id=NishadiGunasinghe&label=Unique%20Views&color=6&icon=0&pretty=true" />
-</p>
-
----
-
 ### 👩‍💻 About Me
 
 I'm a results-driven and detail-oriented Full Stack Software Developer with over 3 years of experience designing, developing, and delivering high-quality, scalable web applications. 
